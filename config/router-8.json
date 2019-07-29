@@ -1,0 +1,5 @@
+{
+	"router-id" : "8",
+	"input-ports" : [10000],
+	"outputs" : ["10001-1-9"]
+}
